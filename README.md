@@ -67,4 +67,4 @@ Dashboard 1: Return & Refund Overview
 
 Dashboard 2: Return Analysis & Product Insights
 
-"Return Analysis and Product Insights" ()
+"Return Analysis and Product Insights" (https://github.com/RachanaMaddiboina/Ecommerce-Return-and-Refund-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard%202.png)
