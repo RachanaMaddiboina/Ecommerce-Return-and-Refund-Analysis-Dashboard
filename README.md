@@ -63,11 +63,8 @@ Business Benefits
 
 Dashboard 1: Return & Refund Overview
 
-"Return and Refund Overview" ()
+"Return and Refund Overview" (https://github.com/RachanaMaddiboina/Ecommerce-Return-and-Refund-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard%201.png)
 
 Dashboard 2: Return Analysis & Product Insights
 
-"Return Analysis and Product Insights" (images/return-analysis-details.png)
-
----
-
+"Return Analysis and Product Insights" ()
